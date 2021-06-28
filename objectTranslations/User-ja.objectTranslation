@@ -36,23 +36,6 @@
         <label><!-- Theme --></label>
         <name>SBQQ__Theme__c</name>
     </fields>
-    <fields>
-        <label><!-- API_URL --></label>
-        <name>copado__API_URL__c</name>
-    </fields>
-    <fields>
-        <help><!-- The visibility of the message asking users to rate &amp; feedback Copado on the AppExchange is controlled here. --></help>
-        <label><!-- Hide Copado feedback --></label>
-        <name>copado__Hide_Copado_feedback__c</name>
-    </fields>
-    <fields>
-        <label><!-- Show Copado Tips --></label>
-        <name>copado__Show_Copado_Tips__c</name>
-    </fields>
-    <fields>
-        <label><!-- Work Manager Panels --></label>
-        <name>copado__Work_Manager_Panels__c</name>
-    </fields>
     <webLinks>
         <label><!-- Select_Theme --></label>
         <name>SBQQ__Select_Theme</name>
