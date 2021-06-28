@@ -17,6 +17,10 @@
         <name>SBQQ__SearchResults</name>
     </fieldSets>
     <fields>
+        <label><!-- External ID --></label>
+        <name>External_ID__c</name>
+    </fields>
+    <fields>
         <help>Seleccione un comportamiento al corregir activos que representan este producto. Las cantidades de activos no pueden disminuir de forma predeterminada a no ser que se agregue una mejora, y no se aplica ningún reembolso.</help>
         <label><!-- Asset Amendment Behavior --></label>
         <name>SBQQ__AssetAmendmentBehavior__c</name>

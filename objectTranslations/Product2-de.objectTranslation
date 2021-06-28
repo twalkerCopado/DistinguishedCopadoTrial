@@ -17,6 +17,10 @@
         <name>SBQQ__SearchResults</name>
     </fieldSets>
     <fields>
+        <label><!-- External ID --></label>
+        <name>External_ID__c</name>
+    </fields>
+    <fields>
         <help>Wählen Sie das Verhalten beim Ändern von Vermögenswerten aus, die dieses Produkt repräsentieren. Die Vermögenswertmengen können standardmäßig nicht verringert werden, es sei denn, es wird ein Upgrade hinzugefügt und keine Erstattung angewendet.</help>
         <label><!-- Asset Amendment Behavior --></label>
         <name>SBQQ__AssetAmendmentBehavior__c</name>

@@ -6,4 +6,24 @@
         <default>false</default>
         <label>None</label>
     </standardValue>
+    <standardValue>
+        <fullName>Low</fullName>
+        <default>false</default>
+        <label>Low</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Middle</fullName>
+        <default>false</default>
+        <label>Middle</label>
+    </standardValue>
+    <standardValue>
+        <fullName>High</fullName>
+        <default>false</default>
+        <label>High</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Really High</fullName>
+        <default>false</default>
+        <label>Really High</label>
+    </standardValue>
 </StandardValueSet>

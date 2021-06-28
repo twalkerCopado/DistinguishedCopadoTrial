@@ -17,6 +17,10 @@
         <name>SBQQ__SearchResults</name>
     </fieldSets>
     <fields>
+        <label><!-- External ID --></label>
+        <name>External_ID__c</name>
+    </fields>
+    <fields>
         <help>Sélectionnez un comportement lors de l&apos;amendement des ressources qui représentent de produit. Par défaut, les quantités de ressources ne peuvent pas diminuer, sauf si une mise à niveau est ajoutée, et aucun remboursement n&apos;est appliqué.</help>
         <label><!-- Asset Amendment Behavior --></label>
         <name>SBQQ__AssetAmendmentBehavior__c</name>

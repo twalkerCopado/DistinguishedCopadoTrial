@@ -17,6 +17,10 @@
         <name>SBQQ__SearchResults</name>
     </fieldSets>
     <fields>
+        <label><!-- External ID --></label>
+        <name>External_ID__c</name>
+    </fields>
+    <fields>
         <help>この商品を表す納入商品を修正する場合の動作を選択してください。デフォルトでは、アップグレードが追加されない限り、納入商品の数量を減らすことはできず、返金は適用されません。</help>
         <label><!-- Asset Amendment Behavior --></label>
         <name>SBQQ__AssetAmendmentBehavior__c</name>
